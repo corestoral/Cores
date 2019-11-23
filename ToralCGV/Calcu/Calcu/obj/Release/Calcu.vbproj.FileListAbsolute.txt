@@ -1,0 +1,10 @@
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\bin\Release\Calcu.exe
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\bin\Release\Calcu.pdb
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\bin\Release\Calcu.xml
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\obj\Release\ResolveAssemblyReference.cache
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\obj\Release\Calcu.Form1.resources
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\obj\Release\Calcu.Resources.resources
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\obj\Release\Calcu.vbproj.GenerateResource.Cache
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\obj\Release\Calcu.exe
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\obj\Release\Calcu.xml
+C:\Users\setarcos\Documents\Visual Studio 2008\Projects\Calcu\Calcu\obj\Release\Calcu.pdb

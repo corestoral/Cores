@@ -1,0 +1,10 @@
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\bin\Debug\Calcu.xml
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\obj\Debug\ToralCGV.vbprojAssemblyReference.cache
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\obj\Debug\Calcu.Calc.resources
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\obj\Debug\Calcu.Resources.resources
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\obj\Debug\ToralCGV.vbproj.GenerateResource.cache
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\obj\Debug\Calcu.xml
+C:\Users\Cores\source\repos\ToralCGV\Calcu\Calcu\obj\Debug\Calcu.pdb
